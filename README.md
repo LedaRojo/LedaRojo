@@ -1,5 +1,5 @@
-a LedaEugenia Rojo# LedaRojo.github.io
-# Juan Pérez
+# LedaRojo.github.io
+# Leda Eugenia Rojo
 
 **Email:** Leda.Rojo@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/leda-eugenia-rojo-a17549225/
