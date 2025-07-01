@@ -3,7 +3,6 @@
 
 **Email:** Leda.Rojo@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/leda-eugenia-rojo-a17549225/
-
 **GitHub:** https://github.com/LedaRojo/LedaRojo.github.io
 ## 🎯 Perfil Profesional
 Ingeniero en Computación Especialista en gestión estratégica de IA, IA aplicada y ciencia de datos
