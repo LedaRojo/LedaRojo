@@ -1,4 +1,4 @@
-# LedaRojo.github.io
+a LedaEugenia Rojo# LedaRojo.github.io
 # Juan Pérez
 
 **Email:** Leda.Rojo@gmail.com  
@@ -15,7 +15,7 @@ Ingeniero en Computación Especialista en gestión estratégica de IA, IA aplica
 **Lic. en Sistemas de Información** – Universidad Y (2015 - 2020)
 
 ## 🛠️ Tecnologías
-- Lenguajes: Python, JavaScript, SQL
+- Lenguajes: Python, C++, SQL
 - Herramientas: Git, Docker, GitHub Actions
 - Frameworks: React, Flask, Django
 
