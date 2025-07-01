@@ -1,10 +1,9 @@
 # LedaRojo.github.io
 # Juan Pérez
 
-**Email:** juan.perez@gmail.com  
-**LinkedIn:** [linkedin.com/in/juanperez](https://linkedin.com/in/juanperez)  
-**GitHub:** [github.com/juanperez](https://github.com/juanperez)  
-
+**Email:** Leda.Rojo@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/leda-eugenia-rojo-a17549225/
+**GitHub:** [github.com/juanperez][(https://github.com/juanperez) ]
 ## 🎯 Perfil Profesional
 Ingeniero en Sistemas con experiencia en desarrollo web, automatización de procesos y ciencia de datos.
 
