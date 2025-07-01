@@ -3,14 +3,13 @@
 
 **Email:** Leda.Rojo@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/leda-eugenia-rojo-a17549225/
-**GitHub:** [github.com/juanperez][(https://github.com/juanperez) ]
+**GitHub:** https://github.com/LedaRojo/LedaRojo.github.io
 ## 🎯 Perfil Profesional
-Ingeniero en Sistemas con experiencia en desarrollo web, automatización de procesos y ciencia de datos.
+Ingeniero en Computación Especialista en gestión estratégica de IA, IA aplicada y ciencia de datos
 
 ## 💼 Experiencia Laboral
-**Desarrollador Full Stack** – Empresa X (2021 - Presente)  
-- Desarrollo de aplicaciones web con React y Node.js  
-- Automatización de procesos internos con Python
+**Gerente de Proyectos de IA** – GMINDS(2021 - Presente)  
+
 
 ## 📚 Educación
 **Lic. en Sistemas de Información** – Universidad Y (2015 - 2020)
