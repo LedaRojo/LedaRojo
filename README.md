@@ -13,12 +13,20 @@ Ingeniero en Computación Especialista en gestión estratégica de IA, IA aplica
 
 
 ## 📚 Educación
-**Lic. en Sistemas de Información** – Universidad Y (2015 - 2020)
+**Posgrado en Gestión Estratégica de IA y Automatización Empresarial ** – Universidad del CEMA (Centro de Estudios económicos de Argentina) 2025
 
-## 🛠️ Tecnologías
+**DiPlomatura en Ciencia de Datos** – UTN (Universidad Tecnológica Nacional) 2024
+
+**Ingeniería de Datos** – UTN (Universidad Tecnológica Nacional) capacitación 2024
+
+**Especialista en Inteligencia Artificial** – Universidad CAECE (Centro de Altos Estudios en Ciencias Exactas) -Carrera de posgrado de dos años académicos (1995)
+
+**Ingeniero en Computación** – UCSE-Universidad Católica de Santiago del Estero (1992)
+
+## 🛠️ Tecnologías/Capacidades
 - Lenguajes: Python, C++, SQL
-- Herramientas: Git, Docker, GitHub Actions
-- Frameworks: React, Flask, Django
+- Machine Learning, RAG, Chatbots y Agentes de IA
+- Ingestión de Datos · Python · Almacenamiento de datos en data y delta lakes · Análisis exploratorio de datos
 
 ## 🧠 Proyectos Destacados
 - [Analizador de Datos COVID](https://github.com/juanperez/covid-analytics)
