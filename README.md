@@ -8,7 +8,7 @@
 ## 🎯 Perfil Profesional
 Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplicada y Ciencia de Datos
 
-## 💼 Experiencia Laboral
+## 💼 Experiencia Laboral actual
 **Gerente de Proyectos de IA** – GMINDS(2021 - Presente)  
 
 
@@ -24,10 +24,17 @@ Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplic
 **Ingeniero en Computación** – UCSE-Universidad Católica de Santiago del Estero (1992)
 
 ## 🛠️ Tecnologías/Capacidades
-- Lenguajes: Python, C++, SQL
-- Machine Learning, RAG, Chatbots y Agentes de IA
-- Ingestión de Datos · Python · Almacenamiento de datos en data y delta lakes · Análisis exploratorio de datos
+- Python, lenguaje C, machine learning, BigData, 
+- Ingeniería de datos: ingestión, carga y transformación de datos y almacenamientos en data y delta lakes. Manejo de bases de datos sql y no convencionales: documentales y vectoriales.
+- Análisis exploratorio de datos: PCA, T_SNE etc
+- Visualización de datos -Power BI, Matplotlib , Plotly
+- Diseño y desarrollo de chatbots, agentes de IA, tecnología RAG, incluyendo acceso a modelos de llms y embeddings a través de api y bases de datos documentales y vectoriales.
+- Redes neuronales secuenciales, convolucionales y cuánticas aplicadas a la visión artificial y al mantenimiento predictivo de plantas industriales.
 
-## 🧠 Proyectos Destacados
+
+## 🧠 Proyectos planificados destacados
+
+
+## 🧠 Proyectos implementados destacados.
 - [Analizador de Datos COVID](https://github.com/juanperez/covid-analytics)
 - [Bot de automatización de tareas](https://github.com/juanperez/bot-tareas)
