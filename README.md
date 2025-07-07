@@ -37,3 +37,10 @@ Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplic
 ## 🧠 Proyectos implementados destacados.
 - [Analizador de Datos COVID](https://github.com/juanperez/covid-analytics)
 - [Bot de automatización de tareas](https://github.com/juanperez/bot-tareas)
+
+
+- Inglés: intermedio (B1)
+
+- Intereses paralelos: artista plástica cuadros abstractos sobre lienzo y artesanales sobre madera.
+
+  
