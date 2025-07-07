@@ -17,19 +17,18 @@ Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplic
 
 **Diplomatura en Ciencia de Datos** – UTN (Universidad Tecnológica Nacional) 2024
 
-**Ingeniería de Datos** – UTN (Universidad Tecnológica Nacional) capacitación 2024
-
 **Especialista en Inteligencia Artificial** – Universidad CAECE (Centro de Altos Estudios en Ciencias Exactas) -Carrera de posgrado de dos años académicos (1995)
 
 **Ingeniero en Computación** – UCSE-Universidad Católica de Santiago del Estero (1992)
 
 ## 🛠️ Tecnologías/Capacidades
-- Python, lenguaje C, machine learning, BigData, 
+- Python, lenguaje C, BigData
 - Ingeniería de datos: ingestión, carga y transformación de datos y almacenamientos en data y delta lakes. Manejo de bases de datos sql y no convencionales: documentales y vectoriales.
-- Análisis exploratorio de datos: PCA, T_SNE etc
+- Análisis exploratorio de datos: ETL, PCA, T_SNE etc
 - Visualización de datos -Power BI, Matplotlib , Plotly
-- Diseño y desarrollo de chatbots, agentes de IA, tecnología RAG, incluyendo acceso a modelos de llms y embeddings a través de api y bases de datos documentales y vectoriales.
-- Redes neuronales secuenciales, convolucionales y cuánticas aplicadas a la visión artificial y al mantenimiento predictivo de plantas industriales.
+- mMchine learning
+- Diseño y desarrollo de chatbots, agentes de IA, tecnología RAG, incluyendo acceso a modelos de llms y embeddings a través de apis de OpenAI y otras y bases de datos documentales y vectoriales.
+- Redes neuronales secuenciales, convolucionales y cuánticas aplicadas a la visión artificial y al mantenimiento predictivo de plantas industriales, entre otros problemas.
 
 
 ## 🧠 Proyectos planificados destacados
