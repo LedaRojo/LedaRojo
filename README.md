@@ -7,17 +7,6 @@
 🌐 GitHub: [github.com/LedaRojo/LedaRojo.github.io](https://github.com/LedaRojo/LedaRojo.github.io)
 
 ---
-
-## 📚 Índice
-
-1. [👩‍💼 Perfil Profesional](#-perfil-profesional)
-2. [💼 Experiencia Laboral Actual](#-experiencia-laboral-actual)
-3. [🎓 Educación](#-educación)
-4. [🛠️ Tecnologías y Capacidades](#-tecnologíascapacidades)
-5. [🧠 Intereses paralelos](#-Intereses paralelos)
-
----
-
 ## 🎯 Perfil Profesional
 Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplicada y Ciencia de Datos
 
@@ -64,7 +53,7 @@ Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplic
 
 
 
----
+
 
 ## 📂 Proyectos
 
