@@ -39,8 +39,9 @@ Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplic
 - [Bot de automatización de tareas](https://github.com/juanperez/bot-tareas)
 
 
-- Inglés: intermedio (B1)
 
-- Intereses paralelos: artista plástica cuadros abstractos sobre lienzo y artesanales sobre madera.
+
+## 🧠 Intereses paralelos.
+- Artista plástica: cuadros abstractos sobre lienzo y artesanales sobre madera. Creaciones propias.
 
   
