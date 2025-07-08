@@ -8,7 +8,8 @@
 
 ---
 ## 🎯 Perfil Profesional
-Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplicada y Ciencia de Datos
+**Especialista en Gestión Estratégica de IA, IA aplicada y Ciencia de Datos**
+
 
 ## 💼 Experiencia Laboral actual
 **Gerente de Proyectos de IA** – GMINDS(2021 - Presente)  
@@ -17,7 +18,7 @@ Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplic
 ## 📚 Educación
 
 - **Posgrado en Gestión Estratégica de IA y Automatización Empresarial**  
-  *Universidad del CEMA (Centro de Estudios económicos de Argentina)* — 2025
+  *Universidad del CEMA (Centro de Estudios Macroeconómicos de Argentina)* — 2025
 
 - **Diplomatura en Ciencia de Datos**  
   *UTN (Universidad Tecnológica Nacional)* — 2024
@@ -44,6 +45,12 @@ Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplic
 - **Gestión de proyectos IA:** Liderazgo técnico, planificación y comunicación con stakeholders  
 
 
+---
+## 📂 Proyectos
+
+Revisá la carpeta [`/Proyectos`](./Proyectos) para explorar desarrollos y notebooks de IA, ciencia de datos y automatización.
+
+---
 
 ## 🧠 Intereses paralelos.
 - Artista plástica: cuadros abstractos sobre lienzo y artesanales sobre madera. Creaciones propias.
@@ -53,19 +60,6 @@ Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplic
 
 
 
-
-
-## 📂 Proyectos
-
-Revisá la carpeta [`/Proyectos`](./Proyectos) para explorar desarrollos y notebooks de IA, ciencia de datos y automatización.
-
----
-## 🧠 Proyectos planificados destacados
-
-
-## 🧠 Proyectos implementados destacados.
-- [Analizador de Datos COVID](https://github.com/juanperez/covid-analytics)
-- [Bot de automatización de tareas](https://github.com/juanperez/bot-tareas)
 
 
 🧠 *“La inteligencia artificial no reemplazará a los humanos, sino que potenciará su capacidad de transformación.”*
