@@ -26,7 +26,7 @@ Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplic
 - Ingeniería de datos: ingestión, carga y transformación de datos y almacenamientos en data y delta lakes. Manejo de bases de datos sql y no convencionales: documentales y vectoriales.
 - Análisis exploratorio de datos: ETL, pipelines, PCA, T_SNE etc
 - Visualización de datos -Power BI, Matplotlib , Plotly
-- mMchine learning
+- Machine learning
 - Diseño y desarrollo de chatbots, agentes de IA, tecnología RAG, incluyendo acceso a modelos de llms y embeddings a través de apis de OpenAI y otras y bases de datos documentales y vectoriales.
 - Redes neuronales secuenciales, convolucionales y cuánticas aplicadas a la visión artificial y al mantenimiento predictivo de plantas industriales, entre otros problemas.
 
