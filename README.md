@@ -16,7 +16,7 @@ Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplic
 
 ## 📚 Educación
 
- **Posgrado en Gestión Estratégica de IA y Automatización Empresarial**  
+- **Posgrado en Gestión Estratégica de IA y Automatización Empresarial**  
   *Universidad del CEMA (Centro de Estudios económicos de Argentina)* — 2025
 
 - **Diplomatura en Ciencia de Datos**  
