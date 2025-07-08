@@ -56,9 +56,7 @@ Revisá la carpeta [`/Proyectos`](./Proyectos) para explorar desarrollos y noteb
 - Artista plástica: cuadros abstractos sobre lienzo y artesanales sobre madera. Creaciones propias.
 
   
-
-
-
+---
 
 
 
