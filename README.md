@@ -1,10 +1,12 @@
 # LedaRojo.github.io
-# Leda Eugenia Rojo
 
-**Email:** Leda.Rojo@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/leda-eugenia-rojo-a17549225/
+## 👩‍💻 Leda Eugenia Rojo
 
-**GitHub:** https://github.com/LedaRojo/LedaRojo.github.io
+📧 Email: [leda.rojo@gmail.com](mailto:leda.rojo@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/leda-eugenia-rojo-ai](https://www.linkedin.com/in/leda-eugenia-rojo-ai-1b51992/)  
+🌐 GitHub: [github.com/LedaRojo/LedaRojo.github.io](https://github.com/LedaRojo/LedaRojo.github.io)
+
+
 ## 🎯 Perfil Profesional
 Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplicada y Ciencia de Datos
 
@@ -17,12 +19,12 @@ Ingeniero en Computación. Especialista en Gestión Estratégica de IA, IA aplic
 
 **Diplomatura en Ciencia de Datos** – UTN (Universidad Tecnológica Nacional) 2024
 
-**Especialista en Inteligencia Artificial** – Universidad CAECE (Centro de Altos Estudios en Ciencias Exactas) -Carrera de posgrado de dos años académicos (1995)
+**Especialista en Inteligencia Artificial e Ingeniería del Conocimiento** – Universidad CAECE (Centro de Altos Estudios en Ciencias Exactas) -Carrera de posgrado de dos años académicos (1995)
 
 **Ingeniero en Computación** – UCSE-Universidad Católica de Santiago del Estero (1992)
 
 ## 🛠️ Tecnologías/Capacidades
-- **Lenguajes:** Python, R, SQL, lenguaje C
+- **Lenguajes:** Python, R, SQL, lenguaje C++
 - **Frameworks y librerías:** Pandas, NumPy, scikit-learn, PyTorch, Matplotlib, PennyLane
 - **Automatización y RPA:** UiPath, Python scripting
 - **Ingeniería de datos:** ingestión, carga y transformación de datos y almacenamientos en data y delta lakes, Bases sql y no-sql: documentales y vectoriales.
