@@ -53,7 +53,7 @@ Revisá la carpeta [`/Proyectos`](./Proyectos) para explorar desarrollos y noteb
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Tienda inteligente</h3>
+<h3 align="center">Asistente Virtual Inteligente para la Gestión de Riesgos Informáticos</h3>
 <div align="center">
 <a href="https://github.com/AprendeIngenia/Shopping-AI" target="_blank"><img src="Rag1.png"></a>
 <p>
