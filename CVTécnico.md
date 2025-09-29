@@ -55,7 +55,7 @@ Revisá la carpeta [`/Proyectos`](./Proyectos) para explorar desarrollos y noteb
 <td width="50%">
 <h3 align="center">Tienda inteligente</h3>
 <div align="center">
-<a href="https://github.com/AprendeIngenia/Shopping-AI" target="_blank"><img src="https://github.com/AprendeIngenia/Shopping-AI/assets/85022752/4ef1e21b-4ffd-4cc3-a6ae-ffdcbd4a8d53"></a>
+<a href="https://github.com/AprendeIngenia/Shopping-AI" target="_blank"><img src="Rag1.png"></a>
 <p>
 <a href="https://github.com/AprendeIngenia/Shopping-AI" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
