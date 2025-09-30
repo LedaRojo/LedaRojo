@@ -52,7 +52,7 @@ Revisá la carpeta [`/Proyectos`](./Proyectos) para explorar desarrollos y noteb
 ## Proyectos IA:
 <table>
 <tr>
-<td width="50%">
+<td width="20%">
 <h3 align="center">Asistente Virtual Inteligente para la Gestión de Riesgos Informáticos</h3>
 <div align="center">
 <a href="https://github.com/LedaRojo/LedaRojo.github.io" target="_blank"><img src="RagArq.png"></a>
@@ -72,6 +72,11 @@ El BISO Virtual permitirá:
 ●	Capacitar al personal: Ofrecerá formación continua y acceso instantáneo a conocimientos especializados para fortalecer las capacidades del equipo de seguridad.
 Este proyecto representa una oportunidad única para posicionar a los bancos que lo implementan como líderes en innovación en el sector financiero, mejorando la seguridad de la información y optimizando los procesos internos.
 </p>
+ <td width="20%">
+<h3 align="center">Asistente Virtual Inteligente para la Gestión de Riesgos Informáticos</h3>
+<div align="center">
+<a href="https://github.com/LedaRojo/LedaRojo.github.io" target="_blank"><img src="RagArq.png"></a>
+<p>
 </div>
                                                                                       
 </td>
