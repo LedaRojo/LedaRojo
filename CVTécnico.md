@@ -57,11 +57,8 @@ Revisá la carpeta [`/Proyectos`](./Proyectos) para explorar desarrollos y noteb
 <div align="center">
 <a href="https://github.com/LedaRojo/LedaRojo.github.io" target="_blank"><img src="RagArq.png"></a>
 
-<h3 align="center">Asistente Virtual Inteligente para la Gestión de Riesgos Informáticos</h3>
-<div align="center">
 <a href="https://github.com/LedaRojo/LedaRojo.github.io" target="_blank"><img src="IU.png"></a>
-<p>
-<td width="50%">
+
 <a href="https://github.com/LedaRojo/LedaRojo.github.io"  target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
