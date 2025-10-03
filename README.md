@@ -77,11 +77,13 @@ Proyectos IA:
 <a href="https://github.com/LedaRojo/HeladeriaWeb" target="_blank"><img src="https://github.com/LedaRojo/HeladeriaWeb/blob/main/Icedifuso.png"></a>
 <br>
 <p>
-<a href="https://github.com/AprendeIngenia/car_gesture_control" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-FF0000?style=for-the-badge&logo=github&logoColor=black">
+<a href="<img width="1200" height="554" alt="image" src="https://github.com/user-attachments/assets/c200a559-93a1-473c-8105-c355739d3edc" />
+" target="_blank">
+<img src="https://img.shields.io/badge/CI/CD ACTIVO-green?style=for-the-badge&color=44CC11">
+">
 </a>
-<a href="https://github.com/LedaRojo/RAG_VMP/actions/runs/18140924136" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF0000">
+<a href="https://huggingface.co/spaces/LedaRojo/RAG_OpenAI_Python" target="_blank">
+<img src="https://img.shields.io/badge/PROBAR%20MODELO-FF6A00?style=for-the-badge&logo=huggingface&logoColor=white">
 </a>
 </p>
 </p>ChatBot inteligente con modelo chatGpt-4, cuyo MVP está implementado en HuggingFace con Gradio y CI/CD activo en GitHub.</p>
