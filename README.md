@@ -57,9 +57,10 @@ Proyectos IA:
 <a href="https://github.com/LedaRojo/RAG_VMP" target="_blank"><img src="https://github.com/LedaRojo/RAG_VMP/blob/main/Rag.png"></a>
 <p>
 <a href="https://github.com/LedaRojo/RAG_VMP/actions/runs/18140924136" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF0000">
+<img src="https://img.shields.io/badge/CI/CD-ACTIVO-green?style=for-the-badge&color=44CC11">
+</a>
 <a href="https://huggingface.co/spaces/LedaRojo/RAG_OpenAI_Python" target="_blank">
-<img src="https://img.shields.io/badge/DEPLOY-FF6A00?style=for-the-badge&logo=huggingface&logoColor=white">
+<img src="https://img.shields.io/badge/PROBAR%20MODELO-FF6A00?style=for-the-badge&logo=huggingface&logoColor=white">
 </a>
 </p>
 <p>•	Desarrollo de un sistema RAG con modelos de OpenAI: gpt-4o-mini, modelo de embeddings: text-embedding-ada-002,tokenizador específico de GPT-3.5-turbo y Base Vectorial ChromaDB.
