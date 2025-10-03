@@ -72,9 +72,9 @@ Proyectos IA:
 
 <td width="50%">
                <br>
-<h3 align="center">Control de robot con gestos manuales</h3>
+<h3 align="center">🍓Chatbot Inteligente para atención de pedidos y cobros</h3>
 <div align="center">                                       
-<a href="https://github.com/LedaRojo/RAG_VMP" target="_blank"><img src="https://github.com/AprendeIngenia/car_gesture_control/assets/85022752/6b1fa3fe-2245-483a-9c4c-c71d1cd12243"></a>
+<a href="https://github.com/LedaRojo/HeladeriaWeb" target="_blank"><img src="https://github.com/LedaRojo/HeladeriaWeb/blob/main/Icedifuso.png"></a>
 <br>
 <p>
 <a href="https://github.com/AprendeIngenia/car_gesture_control" target="_blank">
