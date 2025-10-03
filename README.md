@@ -72,7 +72,7 @@ Proyectos IA:
 
 <td width="50%">
                <br>
-<h3 align="center">🍓Chatbot Inteligente para atención de pedidos y cobros</h3>
+<h3 align="center">🍦🍇🍓Chatbot Inteligente para atención de pedidos y cobros</h3>
 <div align="center">                                       
 <a href="https://github.com/LedaRojo/HeladeriaWeb" target="_blank"><img src="https://github.com/LedaRojo/HeladeriaWeb/blob/main/Icedifuso.png"></a>
 <br>
@@ -84,7 +84,7 @@ Proyectos IA:
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF0000">
 </a>
 </p>
-</p>Descubre cómo creamos un <strong>revolucionario sistema de control de robot</strong> que integra gestos de mano, mediapipe, comunicación serial y cable USB. En este video, te llevaremos detrás de cámaras para mostrarte cómo transformamos movimientos corporales en acciones de control de robot en tiempo real.</p>
+</p>ChatBot inteligente con modelo chatGpt-4, cuyo MVP está emplementado en HuggingFace con Gradio y CI/CD activo en GitHub.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
