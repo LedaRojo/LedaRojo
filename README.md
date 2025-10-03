@@ -56,9 +56,8 @@ Proyectos IA:
 <div align="center">
 <a href="https://github.com/LedaRojo/RAG_VMP" target="_blank"><img src="https://github.com/LedaRojo/RAG_VMP/blob/main/Rag.png"></a>
 <p>
-<a href="https://github.com/LedaRojo/RAG_VMP" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
+<a href="https://github.com/LedaRojo/RAG_VMP/actions/runs/18140924136" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF0000">
 <a href="https://huggingface.co/spaces/LedaRojo/RAG_OpenAI_Python" target="_blank">
 <img src="https://img.shields.io/badge/DEPLOY-FF6A00?style=for-the-badge&logo=huggingface&logoColor=white">
 </a>
