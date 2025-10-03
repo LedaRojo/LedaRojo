@@ -52,8 +52,7 @@ Proyectos IA:
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">BISO Virtual para la Gestión de Riesgos Informáticos"
-</h3>
+<h3 align="center">BISO Virtual para la Gestión de Riesgos Informáticos</h3>
 <div align="center">
 <a href="https://github.com/AprendeIngenia/Shopping-AI" target="_blank"><img src="https://github.com/LedaRojo/RAG_VMP/blob/main/Rag.png"></a>
 <p>
