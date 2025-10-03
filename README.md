@@ -80,7 +80,7 @@ Proyectos IA:
 <a href="https://github.com/AprendeIngenia/car_gesture_control" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-FF0000?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/SwyCJ9jCMXU?si=rYASrBqganBIg_Cp" target="_blank">
+<a href="https://github.com/LedaRojo/RAG_VMP/actions/runs/18140924136" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF0000">
 </a>
 </p>
