@@ -63,7 +63,7 @@ Proyectos IA:
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-<p>•	Desarrollo de un sistema RAG con modelos de OpenAI: gpt-4o-mini, modelo de embeddings: text-embedding-ada-002,tokenizador específico de GPT-3.5-turbo y Base Vectorial Chroma.
+<p>•	Desarrollo de un sistema RAG con modelos de OpenAI: gpt-4o-mini, modelo de embeddings: text-embedding-ada-002,tokenizador específico de GPT-3.5-turbo y Base Vectorial ChromaDB.
 •	Aplicación de este sistema al Sector de Riesgos Informáticos.
 .</p>
 </div>
@@ -72,7 +72,7 @@ Proyectos IA:
 
 <td width="50%">
                <br>
-<h3 align="center">🍦🍇🍓Chatbot Inteligente para atención de pedidos y cobros</h3>
+<h3 align="center">🍦Chatbot Inteligente para atención de pedidos y cobros</h3>
 <div align="center">                                       
 <a href="https://github.com/LedaRojo/HeladeriaWeb" target="_blank"><img src="https://github.com/LedaRojo/HeladeriaWeb/blob/main/Icedifuso.png"></a>
 <br>
@@ -84,7 +84,7 @@ Proyectos IA:
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF0000">
 </a>
 </p>
-</p>ChatBot inteligente con modelo chatGpt-4, cuyo MVP está emplementado en HuggingFace con Gradio y CI/CD activo en GitHub.</p>
+</p>ChatBot inteligente con modelo chatGpt-4, cuyo MVP está implementado en HuggingFace con Gradio y CI/CD activo en GitHub.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
