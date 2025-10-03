@@ -63,7 +63,9 @@ Proyectos IA:
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-<p>Aprende a programar una increíble <strong>tienda inteligente. </strong> Una clase de más de 1 hora donde te enseño a utilizar herramientas de inteligencia artificial y visión por computadora para crear tu propio sistema de reconocimiento de objetos y proceso de pago en <strong>Tiempo REAL</strong> con todo el código disponible para descargar.</p>
+<p>•	Desarrollo de un sistema RAG con modelos de OpenAI: gpt-4o-mini, modelo de embeddings: text-embedding-ada-002,tokenizador específico de GPT-3.5-turbo y Base Vectorial Chroma.
+•	Aplicación de este sistema al Sector de Riesgos Informáticos.
+.</p>
 </div>
                                                                                       
 </td>
