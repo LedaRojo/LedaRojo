@@ -60,7 +60,7 @@ Proyectos IA:
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/vQzuX4yM64g?si=9xYwerc6Skljs0Zw)" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<img src="https://huggingface.co/spaces/LedaRojo/RAG_OpenAI_Python">
 </a>
 </p>
 <p>•	Desarrollo de un sistema RAG con modelos de OpenAI: gpt-4o-mini, modelo de embeddings: text-embedding-ada-002,tokenizador específico de GPT-3.5-turbo y Base Vectorial ChromaDB.
