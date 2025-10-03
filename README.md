@@ -76,16 +76,15 @@ Proyectos IA:
 <div align="center">                                       
 <a href="https://github.com/LedaRojo/HeladeriaWeb" target="_blank"><img src="https://github.com/LedaRojo/HeladeriaWeb/blob/main/Icedifuso.png"></a>
 <br>
-<p>
-<a href="<img width="1200" height="554" alt="image" src="https://github.com/user-attachments/assets/c200a559-93a1-473c-8105-c355739d3edc" />
-" target="_blank">
+<a href="https://github.com/LedaRojo/HeladeriaWeb/actions/runs/18226912564" target="_blank">
 <img src="https://img.shields.io/badge/CI/CD ACTIVO-green?style=for-the-badge&color=44CC11">
-">
 </a>
-<a href="https://huggingface.co/spaces/LedaRojo/RAG_OpenAI_Python" target="_blank">
+<a href="https://huggingface.co/spaces/LedaRojo/IceCreamBot" target="_blank">
 <img src="https://img.shields.io/badge/PROBAR%20MODELO-FF6A00?style=for-the-badge&logo=huggingface&logoColor=white">
 </a>
 </p>
+
+
 </p>ChatBot inteligente con modelo chatGpt-4, cuyo MVP está implementado en HuggingFace con Gradio y CI/CD activo en GitHub.</p>
 </div>                                                             
 </table>                                                                                 
