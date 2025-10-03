@@ -56,7 +56,7 @@ Proyectos IA:
 <div align="center">
 <a href="https://github.com/LedaRojo/RAG_VMP" target="_blank"><img src="https://github.com/LedaRojo/RAG_VMP/blob/main/Rag.png"></a>
 <p>
-<a href="https://github.com/AprendeIngenia/Shopping-AI" target="_blank">
+<a href="https://github.com/LedaRojo/RAG_VMP" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/vQzuX4yM64g?si=9xYwerc6Skljs0Zw)" target="_blank">
