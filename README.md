@@ -96,6 +96,47 @@ Proyectos IA:
 
 
 
+<table>
+<tr>
+<td width="50%">ness
+<h3 align="center"> IA-Machine Learning y Computación Cuántica en Mantenimiento Predictivo Industrial</h3>
+<div align="center">
+<a href="https://github.com/AprendeIngenia/Sistema-de-reconocimiento-facial-y-Liveness" target="_blank"><img src="https://github.com/AprendeIngenia/Sistema-de-reconocimiento-facial-y-Liveness/assets/85022752/7394c8a6-04cd-4a14-84bf-b27684ed92ba"></a>
+<p>
+<a href="https://github.com/AprendeIngenia/Sistema-de-reconocimiento-facial-y-Liveness" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-800080?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/ut2jSVonUbM?si=i3LNn5qrb8wUc6cs" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-purple?style=for-the-badge&color=800080">
+</a>
+</p>
+<p>Crea tu propio sistema de <strong>reconocimiento facial & liveness</strong> - Utilizando librerías de reconocimiento de rostros e integrando funcionalidades mediapipe lograrás crear un sistema completo para registro e inicio de sesión de personas con su rostro en tiempo real.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Control de frutas en buen estado</h3>
+<div align="center">
+<a href="https://github.com/AprendeIngenia/Control-de-Calidad-de-Frutas-Jetson-Nano" target="_blank"><img src="https://user-images.githubusercontent.com/85022752/164616917-64df6b75-fb4e-4251-85b6-84a945a59c61.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<p>
+<a href="https://github.com/AprendeIngenia/Control-de-Calidad-de-Frutas-Jetson-Nano" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/Qjj1Fi3hd9s?si=fUmLWBCr25HAknXp" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+<p>Crea tu propio sistema de <strong>detección de frutas en buen estado</strong> - Utilizando diferentes librerías y de visión por computadora y con una óptima configuración de Jetson Nano, lograrás detectar que frutas están en buen y mal estado en tiempo real.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
+
+
+
 ## Habilidades y lenguajes:
 
 ### Lenguajes:
