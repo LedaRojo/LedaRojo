@@ -101,12 +101,12 @@ Proyectos IA:
 <td width="50%">ness
 <h3 align="center"> IA-Machine Learning y Computación Cuántica en Mantenimiento Predictivo Industrial</h3>
 <div align="center">
-<a href="https://github.com/AprendeIngenia/Sistema-de-reconocimiento-facial-y-Liveness" target="_blank"><img src="https://github.com/AprendeIngenia/Sistema-de-reconocimiento-facial-y-Liveness/assets/85022752/7394c8a6-04cd-4a14-84bf-b27684ed92ba"></a>
+<a href="https://github.com/LedaRojo/MLearningEnMantenimientoDePlanta" target="_blank"><img src="bomba2.jpg"></a>
 <p>
 <a href="https://github.com/AprendeIngenia/Sistema-de-reconocimiento-facial-y-Liveness" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-800080?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/ut2jSVonUbM?si=i3LNn5qrb8wUc6cs" target="_blank">
+<a href="https://www.youtube.com/watch?v=e-8_KlvYTOs&t=2001s" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-purple?style=for-the-badge&color=800080">
 </a>
 </p>
