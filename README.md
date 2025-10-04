@@ -110,7 +110,7 @@ Proyectos IA:
 <img src="https://img.shields.io/badge/-Youtube-purple?style=for-the-badge&color=800080">
 </a>
 </p>
-<p>Crea tu propio sistema de <strong>reconocimiento facial & liveness</strong> - Utilizando librerías de reconocimiento de rostros e integrando funcionalidades mediapipe lograrás crear un sistema completo para registro e inicio de sesión de personas con su rostro en tiempo real.</p>
+<p>Modelo de Machine Learning para predecir fallas en plantas industriales.Puede ver el código y también, toda la explicación detallada y ejecución del modelo en Youtube. Click en la opción que desee:</p>
 </div>
                                                                                       
 </td>       
@@ -127,7 +127,7 @@ Proyectos IA:
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-<p>Crea tu propio sistema de <strong>detección de frutas en buen estado</strong> - Utilizando diferentes librerías y de visión por computadora y con una óptima configuración de Jetson Nano, lograrás detectar que frutas están en buen y mal estado en tiempo real.</p>
+<p>Modelo de Machine Learning para predecir fallas en plantas industriales.PPuede ver el código y tambié, toda la explicación detallada y ejecución del modelo en Youtube. Click en la opción que desee:</p>
 </div>
                                                                                       
 </td>  
