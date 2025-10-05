@@ -110,7 +110,7 @@ Proyectos IA:
 <img src="https://img.shields.io/badge/-Youtube-purple?style=for-the-badge&color=800080">
 </a>
 </p>
-<p>Modelo de Machine Learning para predecir fallas en plantas industriales.Puede ver el código y también, toda la explicación detallada y ejecución del modelo en Youtube. Click en la opción que desee:</p>
+<p>Redes neuronales y redes neuronales cuánticas para predecir fallas en plantas industriales.Puede ver el código y también, toda la explicación detallada y ejecución del modelo en Youtube. Seleccione arriba la opción que desee:</p>
 </div>
                                                                                       
 </td>       
