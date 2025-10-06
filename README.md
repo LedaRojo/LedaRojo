@@ -3,7 +3,7 @@
 ## 👩‍💻 Leda Eugenia Rojo
 
 📧 Email: [leda.rojo@gmail.com](mailto:leda.rojo@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/leda-eugenia-rojo-ai](https://www.linkedin.com/in/leda-eugenia-rojo-ai-1b51992/)  
+🔗 LinkedIn: [https://www.linkedin.com/in/leda-eugenia-rojo-a17549225/ ]
 🌐 GitHub: [github.com/LedaRojo/LedaRojo.github.io](https://github.com/LedaRojo/LedaRojo.github.io)
 
 ---
