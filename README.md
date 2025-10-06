@@ -3,7 +3,7 @@
 ## 👩‍💻 Leda Eugenia Rojo
 
 📧 Email: [leda.rojo@gmail.com](mailto:leda.rojo@gmail.com)  
-🔗 LinkedIn: [https://www.linkedin.com/in/leda-eugenia-rojo-a17549225/ ]
+🔗 LinkedIn: [https://www.linkedin.com/in/leda-eugenia-rojo-a17549225]
 
 ## 🎯 Perfil Profesional
 **Especialista en Gestión Estratégica de IA, IA aplicada y Ciencia de Datos**
