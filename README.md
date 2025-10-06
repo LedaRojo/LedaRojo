@@ -1,4 +1,4 @@
-# 🧠 La inteligencia artificial no reemplazará a los humanos, sino que potenciará su capacidad de transformación.
+🧠 La inteligencia artificial no reemplazará a los humanos, sino que potenciará su capacidad de transformación.
 ---
 ## 👩‍💻 Leda Eugenia Rojo
 
