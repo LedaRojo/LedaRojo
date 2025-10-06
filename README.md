@@ -4,9 +4,7 @@
 
 📧 Email: [leda.rojo@gmail.com](mailto:leda.rojo@gmail.com)  
 🔗 LinkedIn: [https://www.linkedin.com/in/leda-eugenia-rojo-a17549225/ ]
-🌐 GitHub: [github.com/LedaRojo/LedaRojo.github.io](https://github.com/LedaRojo/LedaRojo.github.io)
 
----
 ## 🎯 Perfil Profesional
 **Especialista en Gestión Estratégica de IA, IA aplicada y Ciencia de Datos**
 
