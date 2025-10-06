@@ -24,7 +24,7 @@
   *UTN (Universidad Tecnológica Nacional)* — 2024
 
 - **Especialista en Inteligencia Artificial e Ingeniería del Conocimiento**  
-  *Universidad CAECE – Centro de Altos Estudios en Ciencias Exactas* — (Carrera de dos años académicos, 1999)
+  *Universidad CAECE – Centro de Altos Estudios en Ciencias Exactas* — (Carrera de dos años académicos, 1994)
 
 - **Ingeniera en Computación**  
   *UCSE – Universidad Católica de Santiago del Estero* — (1992)
