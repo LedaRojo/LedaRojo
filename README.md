@@ -141,36 +141,6 @@ Proyectos IA:
 <br>
 
 
-
-## Habilidades y lenguajes:
-
-### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,arduino,matlab,cpp&perline=4)](https://skillicons.dev)
-
-### Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda,autocad&perline=9)](https://skillicons.dev)
-
-### Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn,flask,pycharm,vscode,stackoverflow&perline=9)](https://skillicons.dev)
-
-### Otros:
-[![My Skills](https://skillicons.dev/icons?i=sketchup,pr&perline=6)](https://skillicons.dev)
-
-## Contacto:
-<a href="mailto:aprende.ingenia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aprende.ingenia@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://twitter.com/santiagsanchezr"><img alt="LinkedIn" src="https://img.shields.io/twitter/follow/santiagsanchezr"></a>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/AprendeIngenia">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AprendeIngenia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AprendeIngenia&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
----
-
 ## 🧠 Intereses paralelos.
 - Artista plástica: cuadros abstractos sobre lienzo y artesanales sobre madera. Creaciones propias.
 
