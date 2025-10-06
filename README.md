@@ -1,5 +1,5 @@
 # 🧠 *“La inteligencia artificial no reemplazará a los humanos, sino que potenciará su capacidad de transformación.”*
-
+---
 ## 👩‍💻 Leda Eugenia Rojo
 
 📧 Email: [leda.rojo@gmail.com](mailto:leda.rojo@gmail.com)  
@@ -149,4 +149,4 @@ Proyectos IA:
 
 
 
-🧠 *“La inteligencia artificial no reemplazará a los humanos, sino que potenciará su capacidad de transformación.”*
+
