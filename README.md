@@ -116,7 +116,7 @@ Proyectos IA:
 </td>       
 
 <td width="50%">
-<h3 align="center">Control de frutas en buen estado</h3>
+<h3 align="center">Proyecto EBird: ETL de Observaciones de especies de aves en Argentina para su preservación</h3>
 <div align="center">
 <a href="https://github.com/AprendeIngenia/Control-de-Calidad-de-Frutas-Jetson-Nano" target="_blank"><img src="https://user-images.githubusercontent.com/85022752/164616917-64df6b75-fb4e-4251-85b6-84a945a59c61.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
