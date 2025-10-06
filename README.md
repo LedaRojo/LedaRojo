@@ -120,11 +120,8 @@ Proyectos IA:
 <div align="center">
 <a href="https://github.com/AprendeIngenia/Control-de-Calidad-de-Frutas-Jetson-Nano" target="_blank"><img src="https://user-images.githubusercontent.com/85022752/164616917-64df6b75-fb4e-4251-85b6-84a945a59c61.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
-<a href="https://github.com/AprendeIngenia/Control-de-Calidad-de-Frutas-Jetson-Nano" target="_blank">
+<a href="https://github.com/LedaRojo/LedaRojo-EBirds-Proyecto-IngenieriaDeDatos/blob/main/Proyecto_EBird.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/Qjj1Fi3hd9s?si=fUmLWBCr25HAknXp" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
 <p>Modelo de Machine Learning para predecir fallas en plantas industriales.PPuede ver el código y tambié, toda la explicación detallada y ejecución del modelo en Youtube. Click en la opción que desee:</p>
