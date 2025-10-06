@@ -60,7 +60,7 @@ Proyectos IA:
 <a href="https://huggingface.co/spaces/LedaRojo/RAG_OpenAI_Python" target="_blank">
 <img src="https://img.shields.io/badge/PROBAR%20MODELO-FF6A00?style=for-the-badge&logo=huggingface&logoColor=white">
 </a>
-
+<a href="https://github.com/LedaRojo/RAG_VMP" target="_blank">
 <img src="https://img.shields.io/badge/AZURE%20DEVOPS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
 </a>
 </p>
