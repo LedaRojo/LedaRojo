@@ -139,7 +139,8 @@
 <br>
 
 
-
+<table>
+<tr>
 <td width="50%">
 <h3 align="center">Automatización inteligente de la carga y almacenamiento de facturas</h3>
 <div align="center">
@@ -147,8 +148,7 @@
 
 <p>Proyecto que extrae datos de Facturas, los procesa y almacena en un BD de manera automática.
 
-</div>
-                                                                                      
+</div>                                                                                      
 </td>  
 </table>                                                                                 
 </div>
