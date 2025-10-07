@@ -144,20 +144,9 @@
 <h3 align="center">Automatización inteligente de la carga y almacenamiento de facturas</h3>
 <div align="center">
 <a href="https://github.com/LedaRojo/IngestionInteligenteFacturas" target="_blank"><img src="https://github.com/LedaRojo/IngestionInteligenteFacturas/blob/main/FactRPA.png" width="400" alt="Curso Kotlin Multiplatform"></a>
-<p>
-<a href="https://github.com/LedaRojo/LedaRojo-EBirds-Proyecto-IngenieriaDeDatos/blob/main/Proyecto_EBird.ipynb" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Proyecto de ingeniería de datos que extrae datos de la API EBird, los procesa y almacena en un DataLake en formato DeltaLake.
 
-1.	Extracción de una API, como fuente de datos, desde varios endpoints mediante uso de la librería requests.
-2. Conversión los datos obtenidos a DataFrames de Pandas 
-3. Almacenamiento en formato DataLake y Deltalake de los datos en forma cruda, sin transformaciones o con leves transformaciones.
-4. Extracciones incremental y full, según las características del endpoint.
-5. Técnicas de procesamiento para limpiar, estandarizar y enriquecer  los datos.
-6. Varios tipos de transformaciones como append, overwrite, merge, etc.
-</p>
+<p>Proyecto que extrae datos de Facturas, los procesa y almacena en un BD de manera automática.
+
 </div>
                                                                                       
 </td>  
