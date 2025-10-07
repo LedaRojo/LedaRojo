@@ -142,11 +142,11 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Automatización inteligente de la carga y almacenamiento de facturas</h3>
+<h3 align="center">Asistente Inteligente para la Ingestión automática de documentos</h3>
 <div align="center">
 <a href="https://github.com/LedaRojo/IngestionInteligenteFacturas" target="_blank"><img src="https://github.com/LedaRojo/IngestionInteligenteFacturas/blob/main/FactRPA.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 
-<p>Proyecto que extrae datos de Facturas, los procesa y almacena en un BD de manera automática.
+<p>Automatización inteligente de la carga , estructuración y almacenamiento de facturas.</p>
 
 </div>                                                                                      
 </td>  
