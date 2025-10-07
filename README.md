@@ -143,7 +143,7 @@
 <td width="50%">
 <h3 align="center">Automatización inteligente de la carga y almacenamiento de facturas</h3>
 <div align="center">
-<a href="https://github.com/LedaRojo/LedaRojo-EBirds-Proyecto-IngenieriaDeDatos" target="_blank"><img src="https://github.com/LedaRojo/LedaRojo-EBirds-Proyecto-IngenieriaDeDatos/blob/main/IngDatos.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/LedaRojo/IngestionInteligenteFacturas" target="_blank"><img src="https://github.com/LedaRojo/IngestionInteligenteFacturas/blob/main/FactRPA.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/LedaRojo/LedaRojo-EBirds-Proyecto-IngenieriaDeDatos/blob/main/Proyecto_EBird.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
