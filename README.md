@@ -44,9 +44,9 @@
 - **Azure:** Azure AIFoundry. Azure ML Studio, Azure MLOPS, Azure AIServices 
 
 ---
-## 📂 Proyectos
+## 📂 Proyectosde de IA
 
-Proyectos IA:
+
 <table>
 <tr>
 <td width="50%">
