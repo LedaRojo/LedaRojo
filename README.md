@@ -11,7 +11,7 @@
 
 
 ## 💼 Experiencia Laboral actual
-**Gerente de Proyectos de IA** – GMINDS(2023 - Presente)  
+**Gerente de Proyectos de IA** 
 
 
 ## 📚 Educación
