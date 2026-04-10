@@ -7,6 +7,7 @@
 
 ## 🎯 Perfil Profesional
 **Especialista en Gestión Estratégica de IA, IA aplicada y Ciencia de Datos**
+https://github.com/LedaRojo
 
 
 ## 💼 Experiencia Laboral actual
