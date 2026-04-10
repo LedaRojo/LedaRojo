@@ -64,6 +64,9 @@
 <a href="https://github.com/LedaRojo/RAG_VMP/blob/main/AzureDevOps.md" target="_blank">
 <img src="https://img.shields.io/badge/AZURE%20DEVOPS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
 </a>
+<a href="https://www.youtube.com/watch?v=e-8_KlvYTOs&t=2001s" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-purple?style=for-the-badge&color=800080">
+</a>
 </p>
 <p>•	Desarrollo de un sistema RAG con modelos de OpenAI: gpt-4o-mini, modelo de embeddings: text-embedding-ada-002,tokenizador específico de GPT-3.5-turbo y Base Vectorial ChromaDB.
 •	Aplicación de este sistema al Sector de Riesgos Informáticos. MVP está implementado en HuggingFace con Gradio y CI/CD activo en GitHub
