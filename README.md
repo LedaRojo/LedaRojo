@@ -70,6 +70,7 @@
 </p>
 <p>•	Desarrollo de un sistema RAG con modelos de OpenAI: gpt-4o-mini, modelo de embeddings: text-embedding-ada-002,tokenizador específico de GPT-3.5-turbo y Base Vectorial ChromaDB.
 •	Aplicación de este sistema al Sector de Riesgos Informáticos. MVP está implementado en HuggingFace con Gradio y CI/CD activo en GitHub
+ • Apriete botón violeta <YOUTUBE> para ver mi explicación del proyecto desde el inicio a su despliegue
 .</p>
 </div>
                                                                                       
