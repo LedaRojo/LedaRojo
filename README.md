@@ -56,7 +56,7 @@
 <a href="https://github.com/LedaRojo/RAG_VMP" target="_blank"><img src="https://github.com/LedaRojo/RAG_VMP/blob/main/Rag.png"></a>
 <p>•	Desarrollo de un sistema RAG con modelos de OpenAI: gpt-4o-mini, modelo de embeddings: text-embedding-ada-002,tokenizador específico de GPT-3.5-turbo y Base Vectorial ChromaDB.
 •	Aplicación de este sistema al Sector de Riesgos Informáticos. MVP está implementado en HuggingFace con Gradio y CI/CD activo en GitHub
- • Apriete botón violeta "YOUTUBE" para ver mi explicación del proyecto desde el inicio hasta su despliegue en la nube
+ • Apriete botón violeta "YOUTUBE" para ver mi explicación del proyecto desde la planificación hasta el despliegue en la nube
 .</p>
 <p>
 <a href="https://github.com/LedaRojo/RAG_VMP/actions/runs/18140924136" target="_blank">
