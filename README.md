@@ -65,7 +65,7 @@
 <a href="https://github.com/LedaRojo/RAG_VMP/blob/main/AzureDevOps.md" target="_blank">
 <img src="https://img.shields.io/badge/AZURE%20DEVOPS-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
 </a>
-<a href="https://www.youtube.com/watch?v=2tJFYYElDd4" target="_blank">
+<a href="https://www.youtube.com/watch?v=dIsrDGE1Owk" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-purple?style=for-the-badge&color=800080">
 </a>
 </p>
