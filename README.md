@@ -34,7 +34,7 @@
 - **Lenguajes:** Python, R, SQL, lenguaje C++
 - **Frameworks y librerías:** Pandas, NumPy, LangChain, scikit-learn, PyTorch, Matplotlib, PennyLane, Tensorflow
 - **Automatización y RPA:** UiPath, Python scripting
-- **Ingeniería de datos:** ingestión, carga y transformación de datos y almacenamientos en data y delta lakes, Bases sql y no-sql: documentales y vectoriales.
+- **Ingeniería de datos:**Spark, Databricks, ETL, ingestión y transformación de datos, Data Lakes, Delta Lakes, bases SQL/NoSQL y bases vectoriales
 - **Análisis exploratorio de datos:** Limpieza, ETL, PCA, T_SNE  
 - **Visualización de datos:** Power BI, Matplotlib , Plotly
 - **Machine Learning:** Regresión, clasificación, PCA, clustering  
