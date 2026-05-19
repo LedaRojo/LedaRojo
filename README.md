@@ -83,6 +83,7 @@
 <div align="center">                                       
 <a href="https://github.com/LedaRojo/HeladeriaWeb" target="_blank"><img src="https://github.com/LedaRojo/HeladeriaWeb/blob/main/Icedifuso.png"></a>
 <br>
+<a href="https://github.com/LedaRojo/HeladeriaWeb" target="_blank"><img src="https://img.shields.io/badge/DESCRIPCIÓN PROYECTO-green?style=for-the-badge&color=44CC11"></a>
 <a href="https://github.com/LedaRojo/HeladeriaWeb/actions/runs/18226912564" target="_blank">
 <img src="https://img.shields.io/badge/CI/CD ACTIVO-green?style=for-the-badge&color=44CC11">
 </a>
