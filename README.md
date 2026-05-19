@@ -59,6 +59,7 @@
  • Apriete botón violeta "YOUTUBE" para ver mi explicación del proyecto desde la planificación hasta el despliegue en la nube
 .</p>
 <p>
+<a href="https://github.com/LedaRojo/RAG_VMP" target="_blank"><img src="https://img.shields.io/badge/DEACRIPCIÓN PROYECTO-green?style=for-the-badge&color=44CC11"></a>
 <a href="https://github.com/LedaRojo/RAG_VMP/actions/runs/18140924136" target="_blank">
 <img src="https://img.shields.io/badge/CI/CD ACTIVO-green?style=for-the-badge&color=44CC11">
 </a>
