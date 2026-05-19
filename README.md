@@ -22,7 +22,7 @@
 - **Diplomatura en Ciencia de Datos**  
   *UTN (Universidad Tecnológica Nacional)* — 2024
 
-- **Especialista en Inteligencia Artificial e Ingeniería del Conocimiento**  
+- **Especialista Mgtr en Inteligencia Artificial e Ingeniería del Conocimiento**  
   *Universidad CAECE – Centro de Altos Estudios en Ciencias Exactas* — (Carrera de dos años académicos, 1994)
 
 - **Ingeniera en Computación**  
