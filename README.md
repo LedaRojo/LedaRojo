@@ -82,7 +82,7 @@
 <div align="center">                                       
 <a href="https://github.com/LedaRojo/ThreatFlow-ML" target="_blank"><img src="https://github.com/LedaRojo/ThreatFlow-ML/blob/main/ThreatFlowAI.png"></a>
 <br>
-<a href="https://github.com/LedaRojo/HeladeriaWeb" target="_blank"><img src="https://img.shields.io/badge/DESCRIPCIÓN PROYECTO-green?style=for-the-badge&color=44CC11"></a>
+<a href="https://github.com/LedaRojo/ThreatFlow-ML/blob/main/README.md" target="_blank"><img src="https://img.shields.io/badge/DESCRIPCIÓN PROYECTO-green?style=for-the-badge&color=44CC11"></a>
 
 
 </p>
