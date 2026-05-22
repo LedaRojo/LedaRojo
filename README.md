@@ -150,8 +150,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/LedaRojo/LedaRojo-EBirds-Proyecto-IngenieriaDeDatos/blob/main/README.md" target="_blank"><img src="https://img.shields.io/badge/DESCRIPCIÓN PROYECTO-green?style=for-the-badge&color=44CC11"></a>
-<p>Proyecto de ingeniería de datos que extrae datos de la API EBird, los procesa y almacena en un DataLake en formato DeltaLake.
-</p>
+
 </div>
 
 
