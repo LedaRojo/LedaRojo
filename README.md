@@ -78,7 +78,7 @@
 </td>
 <td width="50%">
                <br>
-<h3 align="center"> Clasificación Inteligente  Multiclase de Incidentes de Ciberseguridad </h3>
+<h3 align="center"> Clasificador Inteligente  Multiclase de Incidentes de Ciberseguridad </h3>
 <div align="center">                                       
 <a href="https://github.com/LedaRojo/ThreatFlow-ML" target="_blank"><img src="https://github.com/LedaRojo/ThreatFlow-ML/blob/main/ThreatFlowAI.png"></a>
 <br>
@@ -88,7 +88,7 @@
 </p>
 
 
-</p>Agente inteligente con modelo chatGpt-4, cuyo MVP está implementado en HuggingFace con Gradio y CI/CD activo en GitHub.</p>
+</p> El clasificador utiliza características de tráfico de red del conjunto de datos UNSW-NB15 para predecir la categoría de ataque asociado a cada flujo de red.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
