@@ -79,7 +79,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">🍦Chatbot Inteligente para atención de pedidos y cobros</h3>
+<h3 align="center">🍦Agente Inteligente para atención de pedidos y cobros</h3>
 <div align="center">                                       
 <a href="https://github.com/LedaRojo/HeladeriaWeb" target="_blank"><img src="https://github.com/LedaRojo/HeladeriaWeb/blob/main/Icedifuso.png"></a>
 <br>
