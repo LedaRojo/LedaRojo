@@ -94,6 +94,8 @@
 </div>
 <br>
 
+<table>
+<tr>
 <td width="50%">
                <br>
 <h3 align="center">🍦Agente Inteligente para atención de pedidos y cobros</h3>
@@ -112,14 +114,11 @@
 
 </p>Agente inteligente con modelo chatGpt-4, cuyo MVP está implementado en HuggingFace con Gradio y CI/CD activo en GitHub.</p>
 </div>                                                             
-</table>                                                                                 
-</div>
-<br>
 
 
 
-<table>
-<tr>
+
+
 <td width="50%">
 <h3 align="center"> IA-Machine Learning y Computación Cuántica en Mantenimiento Predictivo Industrial</h3>
 <div align="center">
@@ -133,7 +132,11 @@
 </a>
 </p>
 <p>Redes neuronales y redes neuronales cuánticas para predecir fallas en plantas industriales.Puede ver el código y también, toda la explicación detallada y ejecución del modelo en Youtube. Seleccione arriba la opción que desee:</p>
+</div>                                                             
+</table>                                                                                 
 </div>
+<br>
+
                                                                                       
 </td>       
 
