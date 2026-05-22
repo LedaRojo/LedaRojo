@@ -76,6 +76,23 @@
 </div>
                                                                                       
 </td>
+<td width="50%">
+               <br>
+<h3 align="center">🍦Machine Laerning para Ciberseguridad</h3>
+<div align="center">                                       
+<a href="https://github.com/LedaRojo/ThreatFlow-ML" target="_blank"><img src="https://github.com/LedaRojo/ThreatFlow-ML/blob/main/ThreatFlowAI.png"></a>
+<br>
+<a href="https://github.com/LedaRojo/HeladeriaWeb" target="_blank"><img src="https://img.shields.io/badge/DESCRIPCIÓN PROYECTO-green?style=for-the-badge&color=44CC11"></a>
+
+
+</p>
+
+
+</p>Agente inteligente con modelo chatGpt-4, cuyo MVP está implementado en HuggingFace con Gradio y CI/CD activo en GitHub.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 
 <td width="50%">
                <br>
@@ -93,7 +110,7 @@
 </p>
 
 
-</p>ChatBot inteligente con modelo chatGpt-4, cuyo MVP está implementado en HuggingFace con Gradio y CI/CD activo en GitHub.</p>
+</p>Agente inteligente con modelo chatGpt-4, cuyo MVP está implementado en HuggingFace con Gradio y CI/CD activo en GitHub.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
