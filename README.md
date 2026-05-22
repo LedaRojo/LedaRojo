@@ -139,7 +139,8 @@
 
                                                                                       
 </td>       
-
+<table>
+<tr>
 <td width="50%">
 <h3 align="center">Proyecto EBird: ETL de Observaciones de especies de aves en Argentina para su preservación</h3>
 <div align="center">
@@ -159,15 +160,10 @@
 6. Varios tipos de transformaciones como append, overwrite, merge, etc.
 </p>
 </div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
 
 
-<table>
-<tr>
+
+
 <td width="50%">
 <h3 align="center">Asistente Inteligente para la Ingestión automática de documentos</h3>
 <div align="center">
