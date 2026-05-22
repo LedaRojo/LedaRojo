@@ -142,7 +142,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Proyecto EBird: ETL de Observaciones de especies de aves en Argentina para su preservación</h3>
+<h3 align="center">PEBird: Proyecto de ingeniería de datos (ETL) que extrae datos de la API EBird (Observaciones de especies de aves en Argentina para su preservación), los procesa y almacena en un DataLake en formato DeltaLake.</h3>
 <div align="center">
 <a href="https://github.com/LedaRojo/LedaRojo-EBirds-Proyecto-IngenieriaDeDatos" target="_blank"><img src="https://github.com/LedaRojo/LedaRojo-EBirds-Proyecto-IngenieriaDeDatos/blob/main/IngDatos.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
