@@ -78,7 +78,7 @@
 </td>
 <td width="50%">
                <br>
-<h3 align="center">🍦Machine Laerning para Ciberseguridad</h3>
+<h3 align="center"> Clasificación Inteligente  Multiclase de Incidentes de Ciberseguridad </h3>
 <div align="center">                                       
 <a href="https://github.com/LedaRojo/ThreatFlow-ML" target="_blank"><img src="https://github.com/LedaRojo/ThreatFlow-ML/blob/main/ThreatFlowAI.png"></a>
 <br>
