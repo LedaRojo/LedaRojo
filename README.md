@@ -86,7 +86,9 @@
 
 
 </p>
-
+<a href="https://github.com/LedaRojo/ThreatFlow-ML/blob/main/ThreatFlow_ML.ipynb" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
 
 </p> El clasificador utiliza características de tráfico de red del conjunto de datos UNSW-NB15 para predecir la categoría de ataque asociado a cada flujo de red.</p>
 </div>                                                             
