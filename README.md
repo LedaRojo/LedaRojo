@@ -119,6 +119,25 @@
 
 <table>
 <tr>
+ 
+<td width="50%">
+<h3 align="center"> Sistema con LLM + Telegram + trazas + evaluación en LangSmith</h3>
+<div align="center">
+<a href="https://github.com/LedaRojo/AsistenteHeladeria-con-Langsmith" target="_blank"><img src="https://github.com/LedaRojo/AsistenteHeladeria-con-Langsmith/blob/main/IceCreamAssistant_langsmith.png"></a>
+<p>
+<a href="https://github.com/LedaRojo/MLearningEnMantenimientoDePlanta/blob/main/MLyMLCu%C3%A1ntico_MantenimientoPredictivoBombasCentr%C3%ADfugas.ipynb" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-800080?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/watch?v=e-8_KlvYTOs&t=2001s" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-purple?style=for-the-badge&color=800080">
+</a>
+</p>
+<p>Telegram+Uso de LangSmith como plataforma para trazas, evaluación y depuración de apps con LLMs.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
 <td width="50%">
                <br>
 <h3 align="center">🍦Agente Inteligente para atención de pedidos y cobros</h3>
