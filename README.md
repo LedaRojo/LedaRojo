@@ -133,8 +133,10 @@
 </a>
 </p>
 </p>Agente inteligente con modelo chatGpt-4, cuyo MVP está implementado en HuggingFace con Gradio y CI/CD activo en GitHub.</p>
-</div>                                                             
-
+</div>                                                                                                                          
+</table>                                                                                 
+</div>
+<br>
 
 <td width="50%">
 <h3 align="center"> IA-Machine Learning y Computación Cuántica en Mantenimiento Predictivo Industrial</h3>
