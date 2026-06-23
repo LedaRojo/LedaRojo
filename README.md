@@ -116,9 +116,7 @@
 </p>
 <p>Telegram+Uso de LangSmith como plataforma para trazas, evaluación y depuración de apps con LLMs.</p>
 </div>                                                             
-</table>                                                                                 
-</div>
-<br>
+
 
 <td width="50%">
                <br>
