@@ -103,7 +103,7 @@
 <tr>
  
 <td width="50%">
-<h3 align="center"> Sistema con LLM + Telegram + trazas + evaluación en LangSmith</h3>
+<h3 align="center"> Sistema de IA con LLM + Telegram + trazas + evaluación en LangSmith</h3>
 <div align="center">
 <a href="https://github.com/LedaRojo/AsistenteHeladeria-con-Langsmith" target="_blank"><img src="https://github.com/LedaRojo/AsistenteHeladeria-con-Langsmith/blob/main/IceCreamAssistant_langsmith.png"></a>
 <p>
