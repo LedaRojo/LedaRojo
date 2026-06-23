@@ -107,7 +107,7 @@
 <div align="center">
 <a href="https://github.com/LedaRojo/AsistenteHeladeria-con-Langsmith" target="_blank"><img src="https://github.com/LedaRojo/AsistenteHeladeria-con-Langsmith/blob/main/IceCreamAssistant_langsmith.png"></a>
 <p>
-<a href="https://github.com/LedaRojo/MLearningEnMantenimientoDePlanta/blob/main/MLyMLCu%C3%A1ntico_MantenimientoPredictivoBombasCentr%C3%ADfugas.ipynb" target="_blank">
+<a href="https://github.com/LedaRojo/AsistenteHeladeria-con-Langsmith/blob/main/BotHelados-LANGSMITH.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-800080?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
