@@ -97,24 +97,6 @@
 <br>
 
 
-<td width="50%">
-<h3 align="center"> Sistema con LLM + Telegram + trazas + evaluación en LangSmith</h3>
-<div align="center">
-<a href="https://github.com/LedaRojo/AsistenteHeladeria-con-Langsmith" target="_blank"><img src="https://github.com/LedaRojo/AsistenteHeladeria-con-Langsmith/blob/main/IceCreamAssistant_langsmith.png"></a>
-<p>
-<a href="https://github.com/LedaRojo/MLearningEnMantenimientoDePlanta/blob/main/MLyMLCu%C3%A1ntico_MantenimientoPredictivoBombasCentr%C3%ADfugas.ipynb" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-800080?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://www.youtube.com/watch?v=e-8_KlvYTOs&t=2001s" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-purple?style=for-the-badge&color=800080">
-</a>
-</p>
-<p>Redes neuronales y redes neuronales cuánticas para predecir fallas en plantas industriales.Puede ver el código y también, toda la explicación detallada y ejecución del modelo en Youtube. Seleccione arriba la opción que desee:</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
 
 
 <table>
