@@ -96,25 +96,6 @@
 </div>
 <br>
 
-<table>
-<tr>
-<td width="50%">
-               <br>
-<h3 align="center">🍦Agente Inteligente para atención de pedidos y cobros</h3>
-<div align="center">                                       
-<a href="https://github.com/LedaRojo/HeladeriaWeb" target="_blank"><img src="https://github.com/LedaRojo/HeladeriaWeb/blob/main/Icedifuso.png"></a>
-<br>
-<a href="https://github.com/LedaRojo/HeladeriaWeb" target="_blank"><img src="https://img.shields.io/badge/DESCRIPCIÓN PROYECTO-green?style=for-the-badge&color=44CC11"></a>
-<a href="https://github.com/LedaRojo/HeladeriaWeb/actions/runs/18226912564" target="_blank">
-<img src="https://img.shields.io/badge/CI/CD ACTIVO-green?style=for-the-badge&color=44CC11">
-</a>
-<a href="https://huggingface.co/spaces/LedaRojo/IceCreamBot" target="_blank">
-<img src="https://img.shields.io/badge/PROBAR%20MODELO-FF6A00?style=for-the-badge&logo=huggingface&logoColor=white">
-</a>
-</p>
-</p>Agente inteligente con modelo chatGpt-4, cuyo MVP está implementado en HuggingFace con Gradio y CI/CD activo en GitHub.</p>
-</div>                                                             
-
 
 <td width="50%">
 <h3 align="center"> Sistema con LLM + Telegram + trazas + evaluación en LangSmith</h3>
@@ -136,9 +117,24 @@
 
 
 
-
-
-
+<table>
+<tr>
+<td width="50%">
+               <br>
+<h3 align="center">🍦Agente Inteligente para atención de pedidos y cobros</h3>
+<div align="center">                                       
+<a href="https://github.com/LedaRojo/HeladeriaWeb" target="_blank"><img src="https://github.com/LedaRojo/HeladeriaWeb/blob/main/Icedifuso.png"></a>
+<br>
+<a href="https://github.com/LedaRojo/HeladeriaWeb" target="_blank"><img src="https://img.shields.io/badge/DESCRIPCIÓN PROYECTO-green?style=for-the-badge&color=44CC11"></a>
+<a href="https://github.com/LedaRojo/HeladeriaWeb/actions/runs/18226912564" target="_blank">
+<img src="https://img.shields.io/badge/CI/CD ACTIVO-green?style=for-the-badge&color=44CC11">
+</a>
+<a href="https://huggingface.co/spaces/LedaRojo/IceCreamBot" target="_blank">
+<img src="https://img.shields.io/badge/PROBAR%20MODELO-FF6A00?style=for-the-badge&logo=huggingface&logoColor=white">
+</a>
+</p>
+</p>Agente inteligente con modelo chatGpt-4, cuyo MVP está implementado en HuggingFace con Gradio y CI/CD activo en GitHub.</p>
+</div>                                                             
 
 
 <td width="50%">
