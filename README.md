@@ -110,9 +110,6 @@
 <a href="https://github.com/LedaRojo/MLearningEnMantenimientoDePlanta/blob/main/MLyMLCu%C3%A1ntico_MantenimientoPredictivoBombasCentr%C3%ADfugas.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-800080?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://www.youtube.com/watch?v=e-8_KlvYTOs&t=2001s" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-purple?style=for-the-badge&color=800080">
-</a>
 </p>
 <p>Telegram+Uso de LangSmith como plataforma para trazas, evaluación y depuración de apps con LLMs.</p>
 </div>                                                             
