@@ -102,7 +102,7 @@
 <table>
 <tr>
  
-<td width="50%">
+<td width="70%">
 <h3 align="center"> LANGSMITHBOT
  Sistema de IA con LLM + Telegram + trazas + evaluación en LangSmith</h3>
 <div align="center">
@@ -116,7 +116,7 @@
 </div>                                                             
 
 
-<td width="50%">
+<td width=30%">
                <br>
 <h3 align="center">🍦Agente Inteligente para atención de pedidos y cobros</h3>
 <div align="center">                                       
