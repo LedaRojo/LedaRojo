@@ -136,6 +136,8 @@
 </div>
 <br>
 
+<table>
+<tr>
 <td width="50%">
 <h3 align="center"> IA-Machine Learning y Computación Cuántica en Mantenimiento Predictivo Industrial</h3>
 <div align="center">
