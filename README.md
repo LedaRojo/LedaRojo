@@ -103,7 +103,8 @@
 <tr>
  
 <td width="50%">
-<h3 align="center"> Sistema de IA con LLM + Telegram + trazas + evaluación en LangSmith</h3>
+<h3 align="center"> LANGSMITHBOT
+ Sistema de IA con LLM + Telegram + trazas + evaluación en LangSmith</h3>
 <div align="center">
 <a href="https://github.com/LedaRojo/AsistenteHeladeria-con-Langsmith" target="_blank"><img src="https://github.com/LedaRojo/AsistenteHeladeria-con-Langsmith/blob/main/IceCreamAssistant_langsmith.png"></a>
 <p>
@@ -111,7 +112,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-800080?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Telegram+Uso de LangSmith como plataforma para trazas, evaluación y depuración de apps con LLMs.</p>
+<p>LLMs+Telegram+Uso de LangSmith como plataforma para trazas, evaluación y depuración de apps con LLMs.</p>
 </div>                                                             
 
 
