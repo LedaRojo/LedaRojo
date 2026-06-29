@@ -11,7 +11,7 @@
 
 
 ## 💼 Experiencia Laboral actual
-**Gerente de Proyectos de IA** 
+**Gerente de Área y Proyectos de IA** 
 
 
 ## 📚 Educación
