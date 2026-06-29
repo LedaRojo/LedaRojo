@@ -29,7 +29,7 @@
   *UCSE – Universidad Católica de Santiago del Estero* — (1992)
 
 
-## 🛠️ Tecnologías/Capacidades
+## 🛠️ Capacidades
 
 - **Lenguajes:** Python, R, SQL, lenguaje C++
 - **Frameworks y librerías:** Pandas, NumPy, LangChain, LangSmith, scikit-learn, PyTorch, Matplotlib, PennyLane, Tensorflow
@@ -41,7 +41,8 @@
 - **Deep Learning:** Redes neuronales convolucionales  
 - **IA aplicada:** Diseño y desarrollo de chatbots, agentes de IA, tecnología RAG, incluyendo acceso a modelos de llms y embeddings a través de apis de OpenAI y otras
 - **Computación cuántica:** Redes neuronales cuánticas aplicadas a la visión artificial y al mantenimiento predictivo de plantas industriales, entre otros problemas.
-- **Gestión de proyectos IA:** Liderazgo técnico, planificación y comunicación con stakeholders  
+- **Gestión de proyectos IA:** Liderazgo técnico, planificación y comunicación con stakeholders
+- **Transformación digital**
 - **Azure:** Azure AIFoundry, Azure ML Studio, Azure MLOPS, Azure AIServices 
 
 ---
