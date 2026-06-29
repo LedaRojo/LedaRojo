@@ -32,7 +32,7 @@
 ## 🛠️ Tecnologías/Capacidades
 
 - **Lenguajes:** Python, R, SQL, lenguaje C++
-- **Frameworks y librerías:** Pandas, NumPy, LangChain, scikit-learn, PyTorch, Matplotlib, PennyLane, Tensorflow
+- **Frameworks y librerías:** Pandas, NumPy, LangChain, LangSmith, scikit-learn, PyTorch, Matplotlib, PennyLane, Tensorflow
 - **Automatización y RPA:** UiPath, Python scripting
 - **Ingeniería de datos:** Spark, Databricks, ETL, ingestión y transformación de datos, Data Lakes, Delta Lakes, bases SQL/NoSQL y bases vectoriales
 - **Análisis exploratorio de datos:** Limpieza, ETL, PCA, T_SNE  
