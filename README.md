@@ -46,7 +46,7 @@
 - **Azure:** Azure AIFoundry, Azure ML Studio, Azure MLOPS, Azure AIServices 
 
 ---
-## 📂 Proyectos propios de IA
+## 📂 Proyectos dirigidos/desarrollados de IA
 
 
 <table>
