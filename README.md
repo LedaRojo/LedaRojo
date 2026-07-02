@@ -43,7 +43,7 @@
 - **Computación cuántica:** Redes neuronales cuánticas aplicadas a la visión artificial y al mantenimiento predictivo de plantas industriales, entre otros problemas.
 - **Gestión de proyectos IA:** Liderazgo técnico, planificación y comunicación con stakeholders
 - **Transformación digital**
-- **Azure:** Azure AIFoundry, Azure ML Studio, Azure MLOPS, Azure AIServices 
+- **Azure:** Azure AIFoundry, Azure ML Studio, Azure MLOPS, Azure AIServices, Azure DevOps
 
 ---
 ## 📂 Proyectos dirigidos/desarrollados de IA
